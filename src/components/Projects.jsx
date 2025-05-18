@@ -13,7 +13,7 @@ const projectData = [
         description: "Urban Fold is a modern and stylish clothing e-commerce platform built using the MERN stack. It offers users a smooth shopping experience with features like dynamic product listings, category filtering, a responsive design, and a secure checkout process using Stripe.",
         images: urbanimg,
         link: "https://urban-fold-frontend.vercel.app/",
-        github: "",
+        github: "https://github.com/Sundaram-Katare/UrbanFoldFrontend",
         direction: "flex-row-reverse",
     },
     {
@@ -31,7 +31,7 @@ const projectData = [
         description: "User Authentication is a web application that allows users to register, log in, and manage their profiles. It uses JWT for secure authentication and provides a user-friendly interface for managing user data.",
         images: userimg,
         link: "https://frontend-as-seven.vercel.app/",
-        github: "https://github.com/Sundaram-Katare/user-authentication",
+        github: "https://github.com/Sundaram-Katare/frontend-AS",
         direction: "flex-row-reverse",
     },
     {
@@ -40,7 +40,7 @@ const projectData = [
         description: "Typing Speed Test is a web application that allows users to test their typing speed and accuracy. It provides a user-friendly interface with real-time feedback on performance, including words per minute (WPM) and accuracy percentage.",
         images: typingimg,
         link: "https://typo-tau.vercel.app/",
-        github: "",
+        github: "https://github.com/Sundaram-Katare/Typo",
         direction: "flex-row",
     },
 ]

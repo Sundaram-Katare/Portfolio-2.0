@@ -21,7 +21,7 @@ const icons = [
   { icon: <FaTwitter size={30} />, link: "https://x.com/sundaramkatare" },
   { icon: <FaGithub size={30} />, link: "https://github.com/Sundaram-Katare" },
   { icon: <FaEnvelope size={30} />, link: "mailto:sundaramkatare53@gmail.com" },
-  { icon: <SiPeerlist size={30} />, link: "https://peerlist.io" },
+  { icon: <SiPeerlist size={30} />, link: "https://peerlist.io/sundaram_katare" },
 ];
 
 export default function ContactPage() {
